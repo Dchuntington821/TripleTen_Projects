@@ -1,3 +1,5 @@
+<b> Project Description </b>
+
 The goal for this project is to analyze several datasets containing information on instacart orders to determine exactly how customers are using Instacart. Five data sets were provided to perform an EDA.
 
 Some of the key questions addressed include:
