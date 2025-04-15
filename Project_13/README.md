@@ -29,3 +29,7 @@ Result: This left us with a very clean, almost complete dataframe of 250 movies 
 <b>Results:</b>
 
 My team secured first place by earning 53/58 points.
+
+<b> Additional Resources: </b>
+
+The official graded Github for the project is located here, https://github.com/littleteapot3/imdb_webscraper
