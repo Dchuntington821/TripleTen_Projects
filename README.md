@@ -1,7 +1,7 @@
 # TripleTen_Projects
 This repository contains most of the projects I completed during my studies in TripleTen's Data Science Bootcamp.
 
-A more thorough description and the results of the project is provided in each of the project directories.
+A more thorough description along with the results of the project is provided in each of the project directories.
 
 
 
