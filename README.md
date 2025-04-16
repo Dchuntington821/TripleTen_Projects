@@ -22,4 +22,4 @@ Within each project directory, a brief description and the result of the project
 | 14 | App Deployment Project | Perform an EDA with data visualizations. Using render, create an interactive web-based application. This project is in a separate repository: https://github.com/Dchuntington821/Sprint-4-Project |
 
 
-* Note project descriptions are not yet available for projects 7 - 10
+* Note project descriptions are not yet available for projects 8 - 10
