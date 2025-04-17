@@ -21,6 +21,3 @@ A more thorough description along with the results of the project is provided in
 | 12 | Final Project Prototype Machine Learning |  Perform an EDA on the data and uild a prototype Machine learning model for the company, Interconnect. The company is interested in knowing which of it's clients may soon churn out so they can offer them targeted discounts and promotions. The final model must accurately predict if a customer will soon cancel their services. Maxamize the AUC_ROC and Accuracy Scores.|
 | 13 | Collaborative Coding Competition | Work in a team of four to build a web-scraper that scrapes movie and actor data on the top 250 movies on the IMDB website. Formulate three analytical questions and perform an EDA to answer these questions. Create a presentation and present the construction of the web-scraper and the findings of the EDA to a panel of judges. |
 | 14 | App Deployment Project | Perform an EDA with data visualizations. Using render, create an interactive web-based application. This project is in a separate repository: https://github.com/Dchuntington821/Sprint-4-Project |
-
-
-* Note: A project description are not yet available for project 10.
